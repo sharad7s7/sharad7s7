@@ -1,9 +1,6 @@
 # 💫 Hi 👋, I'm Sharad
 **Hi 👋! My name is Sharad and I'm a CSE student from Jaypee Institute of Information Technology.**
 
-# 💫 About Me:
-🛠 I’m currently working on improving my skills in Data Science and DSA.<br>🤝 I’m looking to collaborate on open-source projects.<br>🌱 I’m currently learning Python, React, and AI.<br>💬 Ask me about DSA, and web development.<br>⚡ Fun fact: I love solving coding challenges for fun!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharad7s7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharad2014t@gmail.com) 
